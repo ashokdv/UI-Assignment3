@@ -1,0 +1,29 @@
+.hr-tag{
+    height: 6px;
+    background: black;
+}
+
+.table-tag{
+    width: 100%;
+    height: 60px;
+    background-color: seagreen;
+}
+
+.empty{
+    margin-bottom: 20px;
+}
+
+span{
+    background-color: sandybrown;
+}
+
+
+.table-tag1{
+    width: 100%;
+    height: 60px;
+    /* background-color: seagreen; */
+}
+.table-tag1 td{
+    font-size: xx-large;
+    border: 1px solid black;
+}
